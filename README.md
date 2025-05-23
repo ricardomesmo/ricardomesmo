@@ -24,14 +24,6 @@ Além do desenvolvimento, atuo estrategicamente em **marketing de performance** 
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardomesmo&layout=compact&theme=radical)  
-![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardomesmo&show_icons=true&theme=radical)  
-![Profile Views](https://komarev.com/ghpvc/?username=ricardomesmo&style=flat-square)
-
----
-
 ### 🏆 Badges
 
 ![JavaScript Lover](https://img.shields.io/badge/JavaScript-Lover-yellow?style=flat&logo=javascript)  
